@@ -1,5 +1,6 @@
-# Bachelorarbeit "Identifikation von Kriterien zur Auswahl von Low Code ETL Technologien"
-Repository für die Reproduzierbarkeit dieser Forschung im Rahmen meiner Bachelorarbeit.
+#Repository für die Reproduzierbarkeit dieser Forschung im Rahmen meiner Bachelorarbeit. 
+Bachelorarbeits Thema: "Identifikation von Kriterien zur Auswahl von Low Code ETL Technologien"
+
 
 ------------------------------------------------------------------------------------------------------
 Reproduzierbarkeit der erstellten ETL Pipelines mit Databricks, DataCater, TalendStudio und TalendCloud
