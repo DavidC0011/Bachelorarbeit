@@ -10,7 +10,7 @@
 
 - [Referenzen für die Bewertung der Low Code Plattformen(LCP) mithilfe des Kriterienkataloges](https://github.com/DavidC0011/Bachelorarbeit/tree/main/GitHub/GitHub/Kriterienbewertung)
 
-Auf Basis der publizierten Dokumentationen der LCP, oder auf Basis des durchgeführten Use Cases
+  Auf Basis der publizierten Dokumentationen der LCP, oder auf Basis des durchgeführten Use Cases
  
  ***
 
