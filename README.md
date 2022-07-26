@@ -26,4 +26,4 @@
  
  ***
 
-- [BPMN der Durchführung des Design Cycles nach Hevner(2007)](https://github.com/DavidC0011/Bachelorarbeit/tree/main/GitHub/GitHub/BPMN)
+- [BPMNs](https://github.com/DavidC0011/Bachelorarbeit/tree/main/GitHub/GitHub/BPMN)
