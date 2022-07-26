@@ -24,3 +24,6 @@
 
 - [diverse Screenshots, während der Verwendung der LCP](https://github.com/DavidC0011/Bachelorarbeit/tree/main/GitHub/GitHub/Screenshots)
  
+ ***
+
+- [BPMN der Durchführung des Design Cycles nach Hevner(2007)](https://github.com/DavidC0011/Bachelorarbeit/tree/main/GitHub/GitHub/BPMN)
